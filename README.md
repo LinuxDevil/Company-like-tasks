@@ -34,12 +34,12 @@ The Angular tasks focus on developing dynamic applications using Angular, NgRx, 
 
 The .NET tasks focus on building robust and secure back-end services with .NET Core and ASP.NET. These tasks will test your ability to create RESTful APIs, manage data using a relational database, and implement authentication and authorization.
 
-## Spring Boot Tasks
+### Spring Boot Tasks
 
 Spring Boot tasks are included in the SpringBootTasks.md file. These tasks require knowledge of Spring Boot, various databases, and possibly other tools like Kafka, RabbitMQ, Elasticsearch, Redis, and Jenkins.
 
 
-## React Native Tasks
+### React Native Tasks
 
 React Native tasks are in the ReactNativeTasks.md file. These tasks involve building mobile applications with various features using React Native.
 
