@@ -1,4 +1,3 @@
-
 # Event Management API
     
     Task Description
