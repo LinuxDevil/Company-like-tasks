@@ -23,28 +23,28 @@ Each of the tasks presented in this repository is designed to test different ski
 The tasks are divided into three sections each corresponding to a specific technology.
 
 ### React Tasks
-[Tasks](https://github.com/LinuxDevil/Company-like-tasks/react)
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/react)
 
 The React tasks focus on building interactive and dynamic single-page applications. These tasks will test your ability to manage state, handle API requests, navigate different views, and ensure your application is responsive and user-friendly.
 
 ### Angular Tasks
-[Tasks](https://github.com/LinuxDevil/Company-like-tasks/angular)
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/angular)
 
 The Angular tasks focus on developing dynamic applications using Angular, NgRx, and RxJS. These tasks will test your understanding of Angular’s component architecture, state management with NgRx, and working with Observables with RxJS.
 
 ### .NET Tasks
-[Tasks](https://github.com/LinuxDevil/Company-like-tasks/dotnet)
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/dotnet)
 
 The .NET tasks focus on building robust and secure back-end services with .NET Core and ASP.NET. These tasks will test your ability to create RESTful APIs, manage data using a relational database, and implement authentication and authorization.
 
 ### Spring Boot Tasks
-[Tasks](https://github.com/LinuxDevil/Company-like-tasks/spring)
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/spring)
 
 Spring Boot tasks are included in the SpringBootTasks.md file. These tasks require knowledge of Spring Boot, various databases, and possibly other tools like Kafka, RabbitMQ, Elasticsearch, Redis, and Jenkins.
 
 
 ### React Native Tasks
-[Tasks](https://github.com/LinuxDevil/Company-like-tasks/react-native)
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/react-native)
 
 React Native tasks are in the ReactNativeTasks.md file. These tasks involve building mobile applications with various features using React Native.
 
