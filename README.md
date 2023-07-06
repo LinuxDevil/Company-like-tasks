@@ -6,17 +6,19 @@ This repository contains a series of tasks that involve developing applications 
 
 1.  [Introduction](#Introduction)
 2.  [Tasks](#Tasks)
-    -   [React Tasks](#React-Tasks)
-    -   [Angular Tasks](#Angular-Tasks)
-    -   [.NET Tasks](#.NET-Tasks)
-    -   [React Native](#ReactNative-Tasks)
-    -   [Spring](#Spring-Tasks)
+    -   [React Tasks](#react-tasks)
+    -   [Angular Tasks](#angular-tasks)
+    -   [.NET Tasks](#net-tasks)
+    -   [React Native](#react-native-tasks)
+    -   [Spring](#spring-boot-tasks)
+    -   [Problem Solving](#problem-solving-tasks)
+    -   [Stylesheets (CSS, SASS, SCSS, TAILWIND)](#stylesheet-tasks)
 3.  [Contributing](#Contributing)
 4.  [License](#License)
 
 ## Introduction
 
-Each of the tasks presented in this repository is designed to test different skills and proficiencies in React, Angular, and .NET core. They are designed in a way to demonstrate the ability to build robust, efficient and scalable applications. These tasks can be used as a way to practice these technologies, prepare for interviews, or for actual job assignments.
+Each of the tasks presented in this repository is designed to test different skills and proficiencies number of different technologies. They are designed in a way to demonstrate the ability to build robust, efficient and scalable applications. These tasks can be used as a way to practice these technologies, prepare for interviews, or for actual job assignments.
 
 ## Tasks
 
@@ -48,6 +50,15 @@ Spring Boot tasks are included in the SpringBootTasks.md file. These tasks requi
 
 React Native tasks are in the ReactNativeTasks.md file. These tasks involve building mobile applications with various features using React Native.
 
+### Problem Solving Tasks
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/problem_solving)
+
+Problem Solving tasks is designed to test your thinking in data structures.
+
+### Stylesheet Tasks
+[Tasks](https://github.com/LinuxDevil/Company-like-tasks/tree/main/stylesheets)
+
+You can solve these challenges with CSS or SCSS or SASS or Tailwind!
 
 ## Contributing
 
